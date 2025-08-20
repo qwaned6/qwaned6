@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**qwaned6/qwaned6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer & Designer**
 
-Here are some ideas to get you started:
+Specializing in C# and texture design for GTA 5 and LSPDFR.  
+I create and share Police, EMS, and Fire vehicle liveries on [LCPDFR.com](https://www.lcpdfr.com/profile/609280-qwaned/) and am working on QwanedCallouts(WIP).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Portfolio: [qwaned.carrd.co](https://qwaned.carrd.co)
+- Discord: [Join the community](https://discord.gg/jsXxEqJeC5)
+- Instagram: [@qwanedcustoms](https://www.instagram.com/qwanedcustoms/)
+- Patreon: [Support me](https://www.patreon.com/qwaned)
+- LCPDFR: [Profile](https://www.lcpdfr.com/profile/609280-qwaned/)
+
+*I don’t play the odds, I play the code.*
